@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="MiniPOS.BLL/MiniPOS.BLL.csproj" />
+  <Project Path="MiniPOS.DAL/MiniPOS.DAL.csproj" />
+  <Project Path="MiniPOS.DTO/MiniPOS.DTO.csproj" />
+  <Project Path="MiniPOS.GUI/MiniPOS.GUI.csproj" />
+</Solution>

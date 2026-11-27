@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MiniPOS.DAL\MiniPOS.DAL.csproj" />
+    <ProjectReference Include="..\MiniPOS.DTO\MiniPOS.DTO.csproj" />
+  </ItemGroup>
+
 </Project>
